@@ -1,7 +1,7 @@
 val reactJS        = "16.7.0"
 val scalaJsReact   = "1.4.2"
 val reactDraggable = "4.0.3"
-val scalaJSDom     = "0.9.7"
+val scalaJSDom     = "0.9.8"
 
 parallelExecution in (ThisBuild, Test) := false
 
